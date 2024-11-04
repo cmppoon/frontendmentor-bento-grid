@@ -1,12 +1,12 @@
 import Image from "next/image";
-import fiveStars from "@/app/images/illustration-five-stars.webp";
-import platforms from "@/app/images/illustration-multiple-platforms.webp";
-import calender from "@/app/images/illustration-consistent-schedule.webp";
-import analytics from "@/app/images/illustration-schedule-posts.webp";
-import growth from "@/app/images/illustration-grow-followers.webp";
-import audience from "@/app/images/illustration-audience-growth.webp";
-import createPosts from "@/app/images/illustration-create-post.webp";
-import aiContent from "@/app/images/illustration-ai-content.webp";
+import fiveStars from "/public/illustration-five-stars.webp";
+import platforms from "/public/illustration-multiple-platforms.webp";
+import calender from "/public/illustration-consistent-schedule.webp";
+import analytics from "/public/illustration-schedule-posts.webp";
+import growth from "/public/illustration-grow-followers.webp";
+import audience from "/public/illustration-audience-growth.webp";
+import createPosts from "/public/illustration-create-post.webp";
+import aiContent from "/public/illustration-ai-content.webp";
 
 export default function Home() {
   return (
