@@ -61,7 +61,7 @@ export default function Home() {
       </div>
 
       <div className="rounded-lg bg-purple500 p-8 px-10 lg:order-8 lg:col-span-2 lg:row-span-2">
-        <div className="lg:flex">
+        <div className="lg:grid lg:grid-cols-2">
           <Image
             className="mx-auto pr-8 lg:m-0 lg:p-0"
             src={growth}
